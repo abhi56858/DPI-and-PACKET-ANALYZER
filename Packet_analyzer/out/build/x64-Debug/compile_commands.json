@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/abhij/source/repos/Packet_analyzer/out/build/x64-Debug",
+  "command": "\"C:\\PROGRA~1\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IC:\\Users\\abhij\\source\\repos\\Packet_analyzer\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\packet_analyzer.dir\\src\\main.cpp.obj /FdCMakeFiles\\packet_analyzer.dir\\ /FS -c C:\\Users\\abhij\\source\\repos\\Packet_analyzer\\src\\main.cpp",
+  "file": "C:/Users/abhij/source/repos/Packet_analyzer/src/main.cpp",
+  "output": "C:/Users/abhij/source/repos/Packet_analyzer/out/build/x64-Debug/CMakeFiles/packet_analyzer.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/abhij/source/repos/Packet_analyzer/out/build/x64-Debug",
+  "command": "\"C:\\PROGRA~1\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IC:\\Users\\abhij\\source\\repos\\Packet_analyzer\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\packet_analyzer.dir\\src\\pcap_reader.cpp.obj /FdCMakeFiles\\packet_analyzer.dir\\ /FS -c C:\\Users\\abhij\\source\\repos\\Packet_analyzer\\src\\pcap_reader.cpp",
+  "file": "C:/Users/abhij/source/repos/Packet_analyzer/src/pcap_reader.cpp",
+  "output": "C:/Users/abhij/source/repos/Packet_analyzer/out/build/x64-Debug/CMakeFiles/packet_analyzer.dir/src/pcap_reader.cpp.obj"
+},
+{
+  "directory": "C:/Users/abhij/source/repos/Packet_analyzer/out/build/x64-Debug",
+  "command": "\"C:\\PROGRA~1\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.51.36231\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP -IC:\\Users\\abhij\\source\\repos\\Packet_analyzer\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\packet_analyzer.dir\\src\\packet_parser.cpp.obj /FdCMakeFiles\\packet_analyzer.dir\\ /FS -c C:\\Users\\abhij\\source\\repos\\Packet_analyzer\\src\\packet_parser.cpp",
+  "file": "C:/Users/abhij/source/repos/Packet_analyzer/src/packet_parser.cpp",
+  "output": "C:/Users/abhij/source/repos/Packet_analyzer/out/build/x64-Debug/CMakeFiles/packet_analyzer.dir/src/packet_parser.cpp.obj"
+}
+]
